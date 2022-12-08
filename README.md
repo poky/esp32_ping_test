@@ -1,7 +1,6 @@
 # esp32_ping_test
 
-
-Using ESP32 and a WS2812B RGB LED with pin5
+Monitoring the IP using ESP32 with WS2812B(pin5), RGB Green = OK, Red = problem!
 
 Required library:
 1. FastLED
