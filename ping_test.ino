@@ -2,8 +2,8 @@
 #include <WiFi.h>
 #include <ESP32Ping.h>
 
-const char* ssid = "R7000";
-const char* password =  "19850514";
+const char* ssid = "YOUR_SSID";
+const char* password =  "YOUR_SSID_PASS";
 const char* monitoring_ip = "192.168.1.35";
 
 #define NUM_LEDS 1
